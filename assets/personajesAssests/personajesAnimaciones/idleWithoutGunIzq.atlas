@@ -1,0 +1,34 @@
+
+idleWithoutGunIzq.png
+size: 64, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Cowboy2_idle without gun
+  rotate: false
+  xy: 2, 2
+  size: 27, 45
+  orig: 45, 45
+  offset: 17, 0
+  index: 3
+Cowboy2_idle without gun
+  rotate: false
+  xy: 2, 2
+  size: 27, 45
+  orig: 45, 45
+  offset: 17, 0
+  index: 2
+Cowboy2_idle without gun
+  rotate: false
+  xy: 31, 2
+  size: 27, 45
+  orig: 45, 45
+  offset: 17, 0
+  index: 0
+Cowboy2_idle without gun
+  rotate: false
+  xy: 31, 2
+  size: 27, 45
+  orig: 45, 45
+  offset: 17, 0
+  index: 1
