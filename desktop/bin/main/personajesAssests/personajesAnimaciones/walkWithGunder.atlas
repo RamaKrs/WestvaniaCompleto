@@ -1,0 +1,34 @@
+
+walkWithGunder.png
+size: 128, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Cowboy2_walk with gun
+  rotate: false
+  xy: 2, 4
+  size: 27, 45
+  orig: 45, 45
+  offset: 4, 0
+  index: 0
+Cowboy2_walk with gun
+  rotate: false
+  xy: 31, 4
+  size: 27, 45
+  orig: 45, 45
+  offset: 4, 0
+  index: 2
+Cowboy2_walk with gun
+  rotate: false
+  xy: 60, 4
+  size: 27, 45
+  orig: 45, 45
+  offset: 4, 0
+  index: 3
+Cowboy2_walk with gun
+  rotate: false
+  xy: 60, 4
+  size: 27, 45
+  orig: 45, 45
+  offset: 4, 0
+  index: 1

@@ -1,0 +1,13 @@
+
+jumpWithoutGunIzq.png
+size: 64, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+Cowboy2_jump without gun
+  rotate: false
+  xy: 2, 2
+  size: 33, 38
+  orig: 45, 45
+  offset: 11, 0
+  index: 0
